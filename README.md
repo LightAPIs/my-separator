@@ -1,6 +1,8 @@
 # <img src="public/icons/icon_48.png" width="45" align="left"> My Separator
 
-My Chrome Extension
+## 作用
+
+用于处理在书签管理器时直接复制粘贴 [chrome-separators](https://github.com/skrysmanski/chrome-separators) 时会自动添加索引值的情况。
 
 ## 使用方法
 
