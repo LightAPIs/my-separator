@@ -17,7 +17,7 @@ const common = {
     // the filename template for entry chunks
     filename: '[name].js',
   },
-  devtool: 'source-map',
+  devtool: 'none',
   stats: {
     all: false,
     errors: true,
@@ -55,7 +55,7 @@ const common = {
           from: '**/*',
           context: 'public',
         },
-      ]
+      ],
     }),
     // Extract CSS into separate files
     new MiniCssExtractPlugin({
