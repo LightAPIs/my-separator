@@ -12,7 +12,7 @@
 
 ## 安装方法
 
-1. 前往应用商店下载安装。
+1. 前往[应用商店](https://chrome.google.com/webstore/detail/blacgmpghkgcceodmlialgningohipab)下载安装。
 
 2. 手动加载：
 
