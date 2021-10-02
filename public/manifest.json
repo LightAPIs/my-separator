@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Disable Bookmark Index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage_url": "https://github.com/LightAPIs/my-separator",
   "description": "__MSG_extDes__",
   "default_locale": "en",
